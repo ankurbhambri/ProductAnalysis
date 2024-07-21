@@ -1,0 +1,54 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+env/
+venv/
+*.env
+*.pyenv
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosx
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Miscellaneous
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Virtual environments
+venv/
+ENV/
